@@ -145,7 +145,7 @@ This project helped develop practical knowledge of:
 
 ## 👨‍💻 Author
 
-**Mansoor**
+**Mansoor Sadhik**
 
 GitHub: [@Mansoorsk12](https://github.com/Mansoorsk12)
 
